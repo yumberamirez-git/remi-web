@@ -1,3 +1,4 @@
 node_modules/*
 text.js
 .env
+dist/*

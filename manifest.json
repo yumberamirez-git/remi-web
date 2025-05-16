@@ -1,0 +1,40 @@
+{ 
+    "name": "Utenze",
+    "short_name": "Utenze",
+    "description": "Utenze e offerte",
+    "background_color": "black",
+    "theme_color": "black",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "index.html",
+    "scope": "./",
+    "lang": "it-IT",    
+    "icons": [
+        {
+            "src": "./dist/logo/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src":"./dist/logo/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src":"./dist/logo/logo76.png",
+            "type":"image/png",
+            "sizes":"76x76"
+        },
+        {
+            "src":"./dist/logo/logo120.png",
+            "type":"image/png",
+            "sizes":"120x120"
+        },
+        {
+            "src":"./dist/logo/logo152.png",
+            "type":"image/png",
+            "sizes":"152x152"
+        }
+    ]
+    
+}
